@@ -12,6 +12,6 @@ public class PrimaryController {
     }
     
     private void checkHandler(EventHandler event) {
-        
+        String a = "sub test";
     }
 }
